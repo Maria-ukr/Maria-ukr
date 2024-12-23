@@ -53,6 +53,6 @@
   <div align="center" style="display: inline_block" ><br>
   <img alt="nextjs" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     <img alt="Docker" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img alt="Docker" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img alt="Typescript" height="30px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/Typescript_logo_2020.svg">
   </div>
 </div>
