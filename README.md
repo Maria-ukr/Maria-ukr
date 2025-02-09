@@ -5,14 +5,13 @@
     •  🔭 I’m currently working with: ReactJS, Redux Toolkit, NodeJS <br>
     •  💬 Using: different type of resources for studying <br>
     •  🌱 I’m currently studying Typescript, NextJS <br>
-   <h3> •  🐝 Member of the <a href="https://teamchallenge.io/">Team Challenge</a> student organization <br>
-        where we have already created our first team project <a href="https://maria-ukr.github.io/rifles/](http://3.123.253.157/">Books-shop</a></h3><br>
+   <h3> •  🐝 Member of the Team Challenge student organization <br>
+     where we have already created our first team project <a href="https://maria-ukr.github.io/rifles/](http://3.123.253.157/">Books-shop</a></h3> <br>
     •  🔥 My proudest project_1 so far <a href="https://maria-ukr.github.io/rifles/">The Weapons And Ammunition shop</a><br>
     •  🔥 My proudest project_2 so far <a href="https://maria-ukr.github.io/atom/">ATOM</a><br>
     •  🔥 My proudest projects_3 so far <a href="https://maria-ukr.github.io/law-company/">Law  Company</a><br>
     •  🔥 My proudest projects_4 so far <a href="https://maria-ukr.github.io/interior_design/">Interior Design</a><br>
     •  🔥 My proudest projects_5 so far <a href="https://maria-ukr.github.io/ideal_house/">Ideal House</a><br>
-    •  🔥 My proudest projects_6 so far <a href="https://maria-ukr.github.io/pet_finder/">Pet Finder</a><br>
     
    <h6> •  😄 Fun fact: I'm starting to enjoy flying in the Liftoff simulator</h6>
   </div>
