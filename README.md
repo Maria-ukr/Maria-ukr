@@ -10,8 +10,6 @@
     •  🔥 My proudest project_1 so far <a href="https://maria-ukr.github.io/rifles/">The Weapons And Ammunition shop</a><br>
     •  🔥 My proudest project_2 so far <a href="https://maria-ukr.github.io/atom/">ATOM</a><br>
     •  🔥 My proudest projects_3 so far <a href="https://maria-ukr.github.io/law-company/">Law  Company</a><br>
-    •  🔥 My proudest projects_4 so far <a href="https://maria-ukr.github.io/interior_design/">Interior Design</a><br>
-    •  🔥 My proudest projects_5 so far <a href="https://maria-ukr.github.io/ideal_house/">Ideal House</a><br>
     
    <h6> •  😄 Fun fact: I'm starting to enjoy flying in the Liftoff simulator</h6>
   </div>
