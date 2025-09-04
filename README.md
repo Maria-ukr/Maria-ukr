@@ -53,11 +53,4 @@
   <img alt="figma" height="25px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/figma-original.svg">
   <img alt="photoshop" height="30px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/photoshop.png">
 </div>
-
-<h2>📚 Started learning</h2> 
-  <div align="center" style="display: inline_block" ><br>
-    <img alt="nextjs" height="30px" width="30px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/next-js.png">
-    <img alt="Typescript" height="30px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/Typescript_logo_2020.svg">
-    <img alt="Docker" height="30px" width="30px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/docker.svg">
-  </div>
 </div>
