@@ -4,10 +4,10 @@
     <h2>⚡️ A Few Quick Facts:</h2> 
     •  🔭 I’m currently working with: ReactJS, Redux Toolkit, NodeJS <br>
     •  💬 Using: different type of resources for studying <br>
-    •  🌱 I’m currently studying Typescript, NextJS <br>
-    •  🔥 My proudest project_1 so far <a href="https://maria-ukr.github.io/rifles/">The Weapons And Ammunition shop</a><br>
-    •  🔥 My proudest project_2 so far <a href="https://maria-ukr.github.io/atom/">ATOM</a><br>
-    •  🔥 My proudest projects_3 so far <a href="https://maria-ukr.github.io/law-company/">Law Company</a><br>
+    •  🌱 I’m currently studying C++, NextJS <br>
+    •  🔥 My pet project <a href="clever-pony-50acde.netlify.app">Agrodrones company</a><br>
+    •  🔥 My pet project <a href="https://maria-ukr.github.io/rifles/">The Weapons And Ammunition shop</a><br>
+    •  🔥 My pet project <a href="https://maria-ukr.github.io/atom/">ATOM</a><br>
     
    <h6> •  😄 Fun fact: I'm starting to enjoy flying in the Liftoff simulator</h6>
   </div>
