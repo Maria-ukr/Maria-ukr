@@ -5,7 +5,7 @@
     •  🔭 I’m currently working with: ReactJS, Redux Toolkit, NodeJS <br>
     •  💬 Using: different type of resources for studying <br>
     •  🌱 I’m currently studying C++, NextJS <br>
-    •  🔥 My pet project <a href="clever-pony-50acde.netlify.app">Agrodrones company</a><br>
+    •  🔥 My pet project <a href="https://clever-pony-50acde.netlify.app/">Agrodrones company</a><br>
     •  🔥 My pet project <a href="https://maria-ukr.github.io/rifles/">The Weapons And Ammunition shop</a><br>
     •  🔥 My pet project <a href="https://maria-ukr.github.io/atom/">ATOM</a><br>
     
