@@ -2,9 +2,9 @@
   <h1 align="center">Hi,  I am Maria !<img alt="Git" height="130px" width="280px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/undraw_voice-interface_vo02.svg"></h1>
   <div style="display: inline_block">
     <h2>⚡️ A Few Quick Facts:</h2> 
-    •  🔭 I’m currently working with: ReactJS, Redux Toolkit, NodeJS <br>
+    •  🔭 I’m currently working with: Wordpress (Custom themes, Elementor, ACF PRO), React JS <br>
     •  💬 Using: different type of resources for studying <br>
-    •  🌱 I’m currently studying C++, NextJS <br>
+    •  🌱 I’m currently studying C++, Next JS <br>
     •  🔥 My pet project <a href="https://clever-pony-50acde.netlify.app/">Agrodrones company</a><br>
     •  🔥 My pet project <a href="https://maria-ukr.github.io/rifles/">The Weapons And Ammunition shop</a><br>
     •  🔥 My pet project <a href="https://maria-ukr.github.io/atom/">ATOM</a><br>
@@ -23,7 +23,7 @@
 <div style="display: inline_block">
   <h2>💼 Checkout my GitHub stats</h2> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-ukr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Maria-ukr's GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Maria-ukr&layout=compact&langs_count=12&theme=swift" alt="Maria-ukr's GitHub Stats" />
 
 </div>    
 <br>
@@ -36,14 +36,15 @@
   <img alt="sass" height="30px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/sass-original.svg">
   <img alt="javascript" width="26px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/javascript-original.svg">
 <br>
+  <img alt="WordPress" width="26px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/WordPress.png">
+  <img alt="elementor" width="26px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/elementor.png">
+  <img alt="acf" width="26px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/acf.png">
+<br>
   <img alt="React" height="30px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/react-original.svg">
   <img alt="redux" height="30px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/redux.svg">
   <img alt="i18next" height="30px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/i18next.svg">
-<br>
   <img alt="nodejs" height="30px" width="30px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/nodejs-original.svg">
   <img alt="expressjs" height="35px" width="60px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/expressjs.png">
-  <img alt="postman" height="35px" width="60px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/postman.svg">
-  <img alt="restful" height="35px" width="60px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/restful-api.png">
   <br>
   <img alt="postgresql" height="30px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/Postgresql.svg">
   <img alt="mongodb" height="40px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/mongodb.png">
