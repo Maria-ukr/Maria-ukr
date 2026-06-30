@@ -30,27 +30,27 @@
 
  <h2>🛠️ Tools</h2> 
 <div align="center" style="display: inline_block" ><br>
-  <img alt="Git" height="30px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/git-original.svg">
-  <img alt="HTML" height="30px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/html5-plain-wordmark.svg">
-  <img alt="CSS3" height="30px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/css3-plain-wordmark.svg">
-  <img alt="sass" height="30px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/sass-original.svg">
+  <img alt="Git" width="50px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/git-original.svg">
+  <img alt="HTML" width="50px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/html5-plain-wordmark.svg">
+  <img alt="CSS3" width="50px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/css3-plain-wordmark.svg">
+  <img alt="sass" width="50px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/sass-original.svg">
   <img alt="javascript" width="26px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/javascript-original.svg">
 <br>
-  <img alt="WordPress" width="26px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/WordPress.png">
-  <img alt="elementor" width="26px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/elementor.png">
-  <img alt="acf" width="26px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/acf.png">
+  <img alt="WordPress" width="100px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/WordPress.png">
+  <img alt="elementor" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/elementor.svg">
+  <img alt="acf" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/acf.svg">
 <br>
-  <img alt="React" height="30px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/react-original.svg">
-  <img alt="redux" height="30px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/redux.svg">
-  <img alt="i18next" height="30px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/i18next.svg">
-  <img alt="nodejs" height="30px" width="30px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/nodejs-original.svg">
-  <img alt="expressjs" height="35px" width="60px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/expressjs.png">
+  <img alt="React" width="50px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/react-original.svg">
+  <img alt="redux" width="50px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/redux.svg">
+  <img alt="i18next" width="50px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/i18next.svg">
+  <img alt="nodejs" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/nodejs-original.svg">
+  <img alt="expressjs" width="7" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/expressjs.png">
   <br>
-  <img alt="postgresql" height="30px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/Postgresql.svg">
-  <img alt="mongodb" height="40px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/mongodb.png">
-  <img alt="sequelize" height="30px" width="30px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/sequelize.png">
+  <img alt="postgresql" width="50px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/Postgresql.svg">
+  <img alt="mongodb" width="50px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/mongodb.png">
+  <img alt="sequelize" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/sequelize.png">
 <br>
-  <img alt="figma" height="25px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/figma-original.svg">
-  <img alt="photoshop" height="30px" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/photoshop.png">
+  <img alt="figma" width="40px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/figma-original.svg">
+  <img alt="photoshop" width="50px" src="https://github.com/Maria-ukr/Maria-ukr/blob/main/img/photoshop.png">
 </div>
 </div>
